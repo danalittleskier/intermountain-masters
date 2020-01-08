@@ -1,12 +1,13 @@
 import React from "react";
 import { Navbar, Icon, NavItem } from "react-materialize";
+import './style.css';
 
 function Nav() {
 
   return (
     <Navbar
-      className="blue-grey darken-3"
-      brand={<li className="brand-logo app-title right"></li>}
+      className="blue-grey darken-1 nav-wrapper"
+      brand={<li className="brand-logo app-title left"><img src='./images/intermountainmasters.png' style={{ width: "400px" }} alt="logo"/></li>}
       fixed
       alignLinks="right"
       menuIcon={<Icon>menu</Icon>}
