@@ -1,11 +1,13 @@
 import React from "react";
 import { Parallax } from "react-materialize";
+import './style.css';
 
 function ParallaxComponent() {
 
     return (
         <div>
         <Parallax
+            className = "parallax-container"
             image={<img alt="" src="./images/StMoritz.jpg" />}
             options={{
                 responsiveThreshold: 0

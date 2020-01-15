@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7962c69f.chunk.css",
+    "main.js": "/static/js/main.44530443.chunk.js",
+    "main.js.map": "/static/js/main.44530443.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.48ba3182.js",
+    "runtime-main.js.map": "/static/js/runtime-main.48ba3182.js.map",
+    "static/js/2.cadc9ad5.chunk.js": "/static/js/2.cadc9ad5.chunk.js",
+    "static/js/2.cadc9ad5.chunk.js.map": "/static/js/2.cadc9ad5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ba7ddad2ed0eb04b976ea67c34ce5b4e.js": "/precache-manifest.ba7ddad2ed0eb04b976ea67c34ce5b4e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7962c69f.chunk.css.map": "/static/css/main.7962c69f.chunk.css.map",
+    "static/js/2.cadc9ad5.chunk.js.LICENSE": "/static/js/2.cadc9ad5.chunk.js.LICENSE",
+    "static/media/StMoritz.jpg": "/static/media/StMoritz.a32f70b1.jpg",
+    "static/media/tour-mobile.jpg": "/static/media/tour-mobile.fcb26090.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48ba3182.js",
+    "static/js/2.cadc9ad5.chunk.js",
+    "static/css/main.7962c69f.chunk.css",
+    "static/js/main.44530443.chunk.js"
+  ]
+}
