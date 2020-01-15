@@ -3,7 +3,7 @@ import React from "react";
 function Schedule() {
   return (
     <div className="container">
-      <h1>THE SCHEDULE</h1>
+      <h2>THE SCHEDULE</h2>
       <h4>Game on for the 2019-20 race season</h4>
       <p>
         All competitors can register online for races at <span><a href="https://www.skiracereg.com/im" title="SkiRaceReg.com - Intermountain/Northern Masters" target="_blank">www.skiracereg.com/im</a></span>.
@@ -87,7 +87,7 @@ function Schedule() {
             </tr>
             <tr>
               <td>14-20</td>
-              <td>Cooper/Steamboar CO</td>
+              <td>Cooper/Steamboat CO</td>
               <td>2DH/2SG/SL/GS</td>
               <td>National Championships</td>
             </tr>

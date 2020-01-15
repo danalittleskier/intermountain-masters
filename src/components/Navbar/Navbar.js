@@ -7,7 +7,7 @@ function Nav() {
   return (
     <Navbar
       className="blue-grey darken-1 nav-wrapper"
-      brand={<li className="brand-logo app-title left"><img src='./images/intermountainmasters.png' style={{ width: "400px" }} alt="logo"/></li>}
+      brand={<li className="brand-logo app-title left"><img src='./images/ski.png' style={{ width: "70px" }} alt="logo"/></li>}
       fixed
       alignLinks="right"
       menuIcon={<Icon>menu</Icon>}
@@ -25,6 +25,7 @@ function Nav() {
     >
 
       <NavItem href="/">Home</NavItem>
+      <NavItem href="/about">About</NavItem>
       <NavItem href="/schedule">Schedule</NavItem>
       <NavItem href="/results">Results</NavItem>
       <NavItem href="/standings">Standings</NavItem>

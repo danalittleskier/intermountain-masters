@@ -9,6 +9,7 @@ import Standings from "./components/pages/Standings";
 import Contact from "./components/pages/Contact";
 import HeroPic from "./components/HeroPic/HeroPicComponent";
 import PicsCarousel from './components/Carousel/PicsCarousel';
+import ParallaxComponent from './components/Parallax/Parallax';
 
 function App() {
   return (
@@ -16,7 +17,8 @@ function App() {
       <div>
         <Nav />
         {/* <HeroPic /> */}
-        <PicsCarousel />
+        {/* <PicsCarousel /> */}
+        <ParallaxComponent />
         <Route exact path="/" component={Home} />
         <Route exact path="/about" component={About} />
         <Route exact path="/schedule" component={Schedule} />
