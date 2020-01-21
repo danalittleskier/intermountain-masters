@@ -8,7 +8,7 @@ function ParallaxComponent() {
         <div>
         <Parallax
             className = "parallax-container"
-            image={<img alt="" src="./images/StMoritz.jpg" />}
+            image={<img alt="" src="./images/SunValley.jpg" width="500" height="800" />}
             options={{
                 responsiveThreshold: 0
             }}
@@ -21,7 +21,7 @@ function ParallaxComponent() {
             </div>
         </div>
         <Parallax
-            image={<img alt="" src="./images/StMoritz.jpg" />}
+            image={<img alt="" src="./images/SunValley.jpg" width="500" height="800" />}
             options={{
                 responsiveThreshold: 0
             }}
